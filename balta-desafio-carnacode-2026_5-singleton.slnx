@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <File Path="src/Challenge.cs" />
+    <Project Path="src/Singleton/Singleton.csproj" Id="1dcb5fcd-7097-48ca-a23c-1805fb293774" />
+  </Folder>
+</Solution>
